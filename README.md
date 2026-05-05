@@ -47,9 +47,6 @@ Biblioteca de gráficos baseada em React. Disponível no projeto para exibição
 ### 🎠 Embla Carousel
 Usado para criar carrosséis e sliders de imagens ou conteúdos na interface, com suporte a touch e animações suaves.
 
-### 🌙 next-themes
-Gerencia o suporte a tema claro/escuro na aplicação, integrando-se com Tailwind CSS para alternar as classes de tema dinamicamente.
-
 ### 🔔 Sonner
 Biblioteca de notificações (toasts) utilizada para exibir mensagens de feedback ao usuário, como confirmações e erros, de forma elegante e não intrusiva.
 
